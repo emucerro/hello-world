@@ -1,4 +1,4 @@
 # hello-world
-somthing about myselff
+somthing about myself
 
 funny right?
